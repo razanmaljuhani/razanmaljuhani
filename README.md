@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Razan Aljuhani 
+- 👋 Hi, I’m Razan Aljohani 
 - 👀 I’m interested in Machine Learning and Data Science. 
-- 🌱 I’m currently learning Computer Science, Information Security.
-- 💞️ I’m looking to collaborate on programming evants
+- 💞️ I’m looking to collaborate on programming evants.
 - 📫 phone : 0559266910
 
 <!---
