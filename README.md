@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Razan Aljohani 
-- 👀 I’m interested in Machine Learning and Data Science. 
+- 👀 I’m interested in Artificial Intelligence and Data Science. 
 - 💞️ I’m looking to collaborate on programming evants.
 - 📫 phone : +966559266910
 
